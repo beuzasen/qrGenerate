@@ -14,7 +14,7 @@ class _MainPageState extends State<MainPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Qr code generator'),
+        title: const Text('Qr code oluşturma'),
         centerTitle: true,
       ),
       body: SingleChildScrollView(
