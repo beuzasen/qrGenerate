@@ -21,7 +21,7 @@ class _MainPageState extends State<MainPage> {
           child: Column(
         children: [
           const SizedBox(
-            height: 15,
+            height: 30,
           ),
           Padding(
             padding: const EdgeInsets.only(left: 16.0, right: 16.0),
